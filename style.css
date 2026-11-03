@@ -95,14 +95,3 @@ header p {
 .swiper-pagination-bullet-active {
   background: #4a3728;
 }
-.swiper{
-  width: 600px;
-  height: 300px;
-}
-.swiper-slide{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 24px;
-  color: #eee;
-}
